@@ -1,0 +1,38 @@
+div {
+  border: 10px dotted #d80101;
+  width: 200px;
+  margin: 100px;
+}
+.conteudo {
+  color: red;
+}
+
+#contato {
+  color: brown;
+}
+
+.p-5 {
+  padding: 5px;
+}
+.m-5 {
+  margin: 5px;
+}
+.text-bold {
+  font-weight: bold;
+}
+.d-block {
+  display: block;
+}
+.d-flex {
+  display: flex;
+}
+.d-none {
+  display: none;
+}
+
+.text-success {
+  color: green;
+}
+.bg-success {
+  background-color: green;
+}
